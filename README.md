@@ -30,7 +30,7 @@ Rank | Show | Likes
 9 | Law & Order: Special Victims Unit” | 4122
 10|  ”NBC 4 Today ” | 4083
 
-Top 10 TV shows based on *user-user collaborative filtering*:
+Top 10 TV recommended shows based on *user-user collaborative filtering*:
 Rank | Show | Similar Users’ likes
 -----|------|------
 1 | ”CSI: NY” | 32
@@ -45,7 +45,7 @@ Rank | Show | Similar Users’ likes
 10 | ”Family Guy” | 23
 
 
-Top 10 TV shows based on *item-item collaborative filtering*:
+Top 10 TV recommended shows based on *item-item collaborative filtering*:
 Rank | Show | Similar Item’ scores
 -----|------|------
 1 | ”FOX 28 News at 10pm” | 43
